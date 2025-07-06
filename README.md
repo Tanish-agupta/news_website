@@ -6,7 +6,7 @@ Welcome to **NEWSMANIA**, a responsive and user-friendly News Web App that lets 
 
 ## 🌐 Live Demo
 
-[Click Here to View Live](#) *(Update with actual link if hosted)*
+https://newswebsite1-eight.vercel.app/
 
 ---
 
